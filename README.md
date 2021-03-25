@@ -1,4 +1,5 @@
 # Open MCT [![license](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](http://www.apache.org/licenses/LICENSE-2.0)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSrokap%2Fopenmct.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FSrokap%2Fopenmct?ref=badge_shield)
 
 Open MCT (Open Mission Control Technologies) is a next-generation mission control framework for visualization of data on desktop and mobile devices. It is developed at NASA's Ames Research Center, and is being used by NASA for data analysis of spacecraft missions, as well as planning and operation of experimental rover systems. As a generalizable and open source framework, Open MCT could be used as the basis for building applications for planning, operation, and analysis of any systems producing telemetry data.
 
@@ -122,3 +123,7 @@ documentation, may presume an understanding of these terms.
   user makes another such choice.)
 * _namespace_: A name used to identify a persistence store. A running open MCT 
 application could potentially use multiple persistence stores, with the 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FSrokap%2Fopenmct.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FSrokap%2Fopenmct?ref=badge_large)
